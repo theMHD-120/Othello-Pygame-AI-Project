@@ -1,7 +1,7 @@
 ﻿# Othello-Pygame-AI-Project
 >>> Artificial Intelligence (AI) final project #01 - Summer 2024
 
-Project summary
+# Project summary
 ||| In the name of Allah ||| <br />
 ---------------------------- <br />
 Implementation of a digital Othello game using pygame library. <br />
