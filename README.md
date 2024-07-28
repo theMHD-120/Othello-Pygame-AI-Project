@@ -14,7 +14,9 @@ Every board state has a value associated with it. In a given state if the maximi
 
 More guides and explanations: 
 - Link #01: [GeeksForGeeks - Minimax](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
-- Link #02: [Youtube - Minimax](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
+- Link #02: [Youtube #1 - Minimax](https://www.youtube.com/watch?v=6ELUvkSkCts)
+- Link #03: [Youtube #2 - Minimax](https://www.youtube.com/watch?v=KU9Ch59-4vw&vl=en)
+- Link #04: [Aparat - Minimax](https://www.aparat.com/v/l1Tba)
 
 ## Minimax tree examples
 ![Minimax-tree #1](https://github.com/user-attachments/assets/5dbf1b42-aac3-4b0f-931d-b4e935244db5)
