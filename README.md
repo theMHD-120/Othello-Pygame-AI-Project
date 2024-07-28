@@ -20,6 +20,6 @@ More guides and explanations:
 - Link #05: [Youtube - Minimax for TicTocToe](https://www.youtube.com/watch?v=5y2a0Zhgq0U)
 
 ## Minimax tree examples
-![Minimax-tree #1](https://github.com/user-attachments/assets/5dbf1b42-aac3-4b0f-931d-b4e935244db5)
+![Minimax-tree](https://github.com/user-attachments/assets/d483b0d9-4215-4b10-b328-98b8b2467c1e)
 
 ## Minimax Alpha-Beta Pruning Algorithm
