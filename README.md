@@ -29,7 +29,7 @@ Let’s define the parameters alpha and beta. <br />
 - Alpha is the best value that the maximizer currently can guarantee at that level or above. 
 - Beta is the best value that the minimizer currently can guarantee at that level or below.
 
-More guides and explanations: 
+See the links below: 
 - Link #01: [GeeksForGeeks - AlphaBeta Minimax](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/)
 - Link #02: [Youtube #1 - AlphaBeta Minimax](https://www.youtube.com/watch?v=l-hh51ncgDI)
 - Link #03: [Youtube #2 - AlphaBeta Minimax](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
