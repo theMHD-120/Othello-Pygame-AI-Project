@@ -1,7 +1,7 @@
 ﻿# Othello-Pygame-AI-Project
 >>> Artificial Intelligence (AI) final project #01 - Summer 2024
 
-# Project summary
+# Project Summary
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Implementation of a digital Othello game using minimax (alpha-beta pruning) algorithm and Pygame library. <br />
@@ -20,7 +20,7 @@ More guides and explanations:
 - Link #04: [Aparat - Minimax](https://www.aparat.com/v/l1Tba)
 - Link #05: [Youtube - Minimax for TicTocToe](https://www.youtube.com/watch?v=5y2a0Zhgq0U)
 
-## Minimax tree example
+## Minimax Tree Example
 ![Minimax-tree](https://github.com/user-attachments/assets/d483b0d9-4215-4b10-b328-98b8b2467c1e)
 
 ## Minimax Alpha-Beta Pruning Algorithm
@@ -36,3 +36,5 @@ See the links below:
 - Link #03: [Youtube #2 - AlphaBeta Minimax](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
 - Link #04: [Aparat #1 - AlphaBeta Minimax](https://www.aparat.com/v/t58lw2n)
 - Link #05: [Aparat #2 - AlphaBeta Minimax](https://www.aparat.com/v/e685m0d)
+
+# Project User Interfaces
