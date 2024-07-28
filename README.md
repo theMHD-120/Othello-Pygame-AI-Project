@@ -39,5 +39,6 @@ See the links below:
 - Link #05: [Aparat #2 - AlphaBeta Minimax](https://www.aparat.com/v/e685m0d)
 
 # Game user interfaces
-![1- Welcome menu and Game board](https://github.com/user-attachments/assets/a29b5ca4-8595-4c76-a358-89fff52a2b56)
-![3- Win and Lose menu](https://github.com/user-attachments/assets/6aad4124-35d1-4330-9584-f405ea7335d7)
+![1- Welcome menu and Game board](https://github.com/user-attachments/assets/7266a4b7-e4a1-4a91-8696-163f37182b7e)
+![3- Win and Lose menu](https://github.com/user-attachments/assets/55f0aed4-787f-49b3-b80f-3ee7cadff746)
+
