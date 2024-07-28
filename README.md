@@ -19,4 +19,5 @@ More guides and explanations:
 ## Minimax tree examples
 ![Minimax-tree #1](https://github.com/user-attachments/assets/5dbf1b42-aac3-4b0f-931d-b4e935244db5)
 ![Minimax-tree #2](https://github.com/user-attachments/assets/58e49241-c6dd-48ea-86b2-010c3cfa4f5b)
+
 Minimax tree example for Tic-Tac-Toe game: [Youtube - Minimax for TicTocToe](https://www.youtube.com/watch?v=5y2a0Zhgq0U)
