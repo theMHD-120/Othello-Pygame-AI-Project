@@ -5,8 +5,8 @@
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Implementation of a digital Othello game using minimax (alpha-beta pruning) algorithm and Pygame library. <br />
-All functions and variables are written in a Python file < Othello.py >. <br />
-Read the guides and explanations of this projcet in the < Othello - Review.pdf > file ...
+All functions and variables are written in a Python file < Othello - Execute.py >; run it to play. <br />
+Read the guides and explanations of this projcet in the < Othello - Review.pdf > file.
 
 # Minimax algorithm
 Minimax is a backtracking algorithm used in decision-making and game theory to determine the best move for a player, provided that your opponent also plays optimally. It is commonly employed in two-player turn-based games like Tic-Tac-Toe, Backgammon, Mancala, Chess and etc. <br />
@@ -39,5 +39,6 @@ See the links below:
 - Link #05: [Aparat #2 - AlphaBeta Minimax](https://www.aparat.com/v/e685m0d)
 
 # Game user interfaces
-![1- Welcome menu and Game board](https://github.com/user-attachments/assets/a29b5ca4-8595-4c76-a358-89fff52a2b56)
-![3- Win and Lose menu](https://github.com/user-attachments/assets/6aad4124-35d1-4330-9584-f405ea7335d7)
+![1- Welcome menu and Game board](https://github.com/user-attachments/assets/7266a4b7-e4a1-4a91-8696-163f37182b7e)
+![3- Win and Lose menu](https://github.com/user-attachments/assets/55f0aed4-787f-49b3-b80f-3ee7cadff746)
+
