@@ -19,7 +19,7 @@ More guides and explanations:
 - Link #04: [Aparat - Minimax](https://www.aparat.com/v/l1Tba)
 - Link #05: [Youtube - Minimax for TicTocToe](https://www.youtube.com/watch?v=5y2a0Zhgq0U)
 
-## Minimax tree examples
+## Minimax tree example
 ![Minimax-tree](https://github.com/user-attachments/assets/d483b0d9-4215-4b10-b328-98b8b2467c1e)
 
 ## Minimax Alpha-Beta Pruning Algorithm
