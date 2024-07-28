@@ -26,7 +26,7 @@ More guides and explanations:
 ## Minimax Alpha-Beta Pruning Algorithm
 Alpha-Beta pruning is not actually a new algorithm, but rather an optimization technique for the minimax algorithm. It reduces the computation time by a huge factor. This allows us to search much faster and even go into deeper levels in the game tree. It cuts off branches in the game tree which need not be searched because there already exists a better move available. It is called Alpha-Beta pruning because it passes 2 extra parameters in the minimax function, namely alpha and beta. <br />
 
-Let’s define the parameters alpha and beta with the pruning condition.
+Let’s define the parameters alpha and beta with the pruning condition:
 - **Alpha**: the best value that the maximizer currently can guarantee at that level or above. 
 - **Beta**: the best value that the minimizer currently can guarantee at that level or below.
 - **Pruning**: for each node, if **beta ≤ alpha**, subtree of this node is pruned.
