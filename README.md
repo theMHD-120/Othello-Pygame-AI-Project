@@ -28,3 +28,10 @@ Alpha-Beta pruning is not actually a new algorithm, but rather an optimization t
 Let’s define the parameters alpha and beta. <br />
 - Alpha is the best value that the maximizer currently can guarantee at that level or above. 
 - Beta is the best value that the minimizer currently can guarantee at that level or below.
+
+More guides and explanations: 
+- Link #01: [GeeksForGeeks - AlphaBeta Minimax](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/)
+- Link #02: [Youtube #1 - AlphaBeta Minimax](https://www.youtube.com/watch?v=l-hh51ncgDI)
+- Link #03: [Youtube #2 - AlphaBeta Minimax](https://www.youtube.com/watch?v=xBXHtz4Gbdo)
+- Link #04: [Aparat #1 - AlphaBeta Minimax](https://www.aparat.com/v/t58lw2n)
+- Link #05: [Aparat #2 - AlphaBeta Minimax](https://www.aparat.com/v/e685m0d)
