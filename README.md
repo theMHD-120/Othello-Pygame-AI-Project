@@ -38,3 +38,4 @@ See the links below:
 - Link #05: [Aparat #2 - AlphaBeta Minimax](https://www.aparat.com/v/e685m0d)
 
 # Project User Interfaces
+![1- Welcome menu](https://github.com/user-attachments/assets/28a1b4f1-74f4-4c03-b5fc-a84f589eba2a) ![2- Game board](https://github.com/user-attachments/assets/b4f995ee-37bb-41f0-9a7b-3ba3055e44d4)
