@@ -3,7 +3,6 @@
 
 # Project summary
 ||| In the name of Allah ||| <br />
---------------------------- <br />
 Implementation of a digital Othello game using minimax (alpha-beta pruning) algorithm and Pygame library. <br />
 All functions and variables are written in a Python file <code>Othello - Execute.py</code>; run it to play. <br />
 Read the guides and explanations of this projcet in the <code>Othello - Review.pdf</code> file.
