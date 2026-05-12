@@ -1,6 +1,6 @@
 ### in the name of Allah
 # Othello-Pygame-AI-Project
->>> Artificial Intelligence (AI) final project #01 - Summer 2024
+>>> Artificial Intelligence (AI) final project part #1 - Summer 2024
 
 # Project summary
 ||| In the name of Allah ||| <br />
